@@ -13,15 +13,10 @@
 - Model 层使用 MySQL 作为数据库，并自制对象关系映射对增删查改的 SQL 语句进行封装 
 
 #演示
-### 解析请求
+### 登录解析
 
- ![图片](/demo_app/static/解析.gif)
+ ![图片](/demo_app/static/登录解析.gif)
  
-### 登录权限验证
-
- ![图片](/demo_app/static/登录权限验证.gif)
+### 微博修改和删除评论
  
- 
-### 微博删除修改和评论
- 
- ![图片](/demo_app/static/微博删除修改和评论.gif)
+ ![图片](/demo_app/static/微博修改和删除评论.gif)
